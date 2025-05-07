@@ -68355,7 +68355,7 @@ return A.H(p.cz(0),$async$oL)
 case 5:s=3
 break
 case 4:s=6
-return A.H(p.uT(0,new A.Id("assets/love_note.mp3")),$async$oL)
+return A.H(p.uT(0,new A.Id("assets/assets/love_note.mp3")),$async$oL)
 case 6:case 3:q.aO(new A.abp(q))
 return A.E(null,r)}})
 return A.F($async$oL,r)},
